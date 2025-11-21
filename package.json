@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning platform for React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi0207goyal/React-App.git"
+  },
+  "keywords": [
+    "react",
+    "app"
+  ],
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravi0207goyal/React-App/issues"
+  },
+  "homepage": "https://github.com/Ravi0207goyal/React-App#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
